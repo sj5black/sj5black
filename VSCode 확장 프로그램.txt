@@ -1,0 +1,26 @@
+Amazon Q
+Django - Baptiste Darthenay
+Django - Roberth Solis
+Django Snippets - Siddharth Singha Roy
+GitHub Copilot
+GitHub Copilot Chat
+indent-rainbow - oderwat
+Jupyter
+Jupyter Cell Tags
+Jupyter Keymap
+Jupyter Notebook Renderers
+Jupyter Slide Show
+Korean Language Pack for Visial Studio Code
+Live Server
+Markdown Checkboxes
+Markdow Preview Github Styling
+Material Icon Theme - Philipp Kief
+One Dark Pro - binaryify
+Pylance
+Python
+Python Debugger
+Python Environment Manager
+Python Indent
+Rainbow CSV
+SQLite
+SQLite Viewer
