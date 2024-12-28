@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Hello~ I'm Teddy.
+**Programming** - 이과적인 사고 <br>
+**Language** - 문학적인 표현 <br>
+<br>
+알고리즘이 베이스이지만, <br>
+언어라는건 자주 사용할수록 익숙해진다.
 
 <!--
 **sj5black/sj5black** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

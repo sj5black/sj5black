@@ -24,3 +24,11 @@ Python Indent
 Rainbow CSV
 SQLite
 SQLite Viewer
+
+Prettier - Code formatter (기본 포맷터로 설정)
+Black Formatter
+Ctrl + Shift + P → Preferences: Open Settings (JSON) → User Settings JSON 파일에서 수정.
+{
+    "python.formatting.provider": "black",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
